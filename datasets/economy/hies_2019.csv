@@ -1,0 +1,999 @@
+area_type,area,income_mean,expenditure_mean,gini,poverty_rate
+state,Johor,8013,4793,0.366,3.9
+state,Kedah,5522,3359,0.354,8.8
+state,Kelantan,4874,3223,0.378,12.4
+state,Melaka,7741,4955,0.383,3.9
+state,Negeri Sembilan,6707,4350,0.391,4.3
+state,Pahang,5667,3652,0.33,4.3
+state,Perak,5645,3564,0.377,7.3
+state,Perlis,5476,3468,0.334,3.9
+state,Pulau Pinang,7774,4630,0.359,1.9
+state,Sabah,5745,2792,0.397,19.5
+state,Sarawak,5959,3448,0.387,9
+state,Selangor,10827,5830,0.393,1.2
+state,Terengganu,6815,4336,0.335,6.1
+state,W.P. Kuala Lumpur,13257,6913,0.35,0.2
+state,W.P. Labuan,8319,4097,0.333,3.1
+state,W.P. Putrajaya,12840,7980,0.361,0.4
+district,Batu Pahat,7392,4493,0.295,2.9
+district,Johor Bahru,9315,5488,0.388,3.3
+district,Kluang,5953,3671,0.333,5
+district,Kota Tinggi,6982,3940,0.361,6
+district,Mersing,4937,3225,0.377,12.1
+district,Muar,7540,4908,0.353,4.1
+district,Pontian,6776,3790,0.354,5.8
+district,Segamat,6431,4139,0.315,2.9
+district,Kulai,8602,4881,0.324,3.2
+district,Tangkak,6659,4226,0.322,3.7
+district,Baling,4313,2535,0.339,17.9
+district,Bandar Baharu,4959,2425,0.324,7.2
+district,Kota Setar,5773,4043,0.352,6.4
+district,Kuala Muda,5656,3215,0.384,10.9
+district,Kubang Pasu,6291,4042,0.361,4.8
+district,Kulim,5476,3175,0.331,9.9
+district,Langkawi,6737,3334,0.276,0.9
+district,Padang Terap,4781,3419,0.307,9.1
+district,Sik,4960,2921,0.32,7.6
+district,Yan,4397,2643,0.369,12.7
+district,Pendang,4680,2798,0.312,8.1
+district,Pokok Sena,5046,3142,0.303,7.3
+district,Bachok,4728,2742,0.361,13.1
+district,Kota Bharu,5577,3746,0.381,9.1
+district,Machang,4841,3056,0.352,7.1
+district,Pasir Mas,4745,3180,0.381,13.1
+district,Pasir Puteh,4688,3105,0.386,12.7
+district,Tanah Merah,4338,2869,0.346,12
+district,Tumpat,4838,3377,0.374,12.5
+district,Gua Musang,4009,2929,0.367,17.2
+district,Kuala Krai,3979,2505,0.382,22.4
+district,Jeli,3872,2289,0.328,18.5
+district,Kecil Lojing,3002,2592,0.233,33.3
+district,Alor Gajah,7050,4625,0.356,3.8
+district,Jasin,7340,4779,0.386,3
+district,Melaka Tengah,8100,5120,0.389,4.2
+district,Jelebu,5414,3796,0.379,5.2
+district,Kuala Pilah,5040,3909,0.366,8.3
+district,Port Dickson,6393,4083,0.378,4.3
+district,Rembau,5163,3329,0.362,5.7
+district,Seremban,7611,4802,0.386,3.2
+district,Tampin,5786,3700,0.386,4.8
+district,Jempol,4926,3428,0.344,6.2
+district,Bentong,5300,3634,0.284,3.3
+district,Cameron Highlands,6576,4061,0.273,0.4
+district,Jerantut,4452,2783,0.288,9.9
+district,Kuantan,7071,4346,0.329,1.8
+district,Lipis,4504,3312,0.292,5.8
+district,Pekan,5026,3174,0.317,6.6
+district,Raub,5005,4059,0.313,4.7
+district,Temerloh,5205,2935,0.323,6.1
+district,Rompin,4641,3337,0.295,6.7
+district,Maran,4678,3523,0.313,6.4
+district,Bera,4566,2839,0.29,2.9
+district,Seberang Perai Tengah,7457,4390,0.367,2.3
+district,Seberang Perai Utara,6914,3796,0.359,4.6
+district,Seberang Perai Selatan,6843,3956,0.323,2.1
+district,Timur Laut,8493,5126,0.356,0.5
+district,Barat Daya,8393,5414,0.361,1
+district,Batang Padang,5637,2934,0.394,7.1
+district,Manjung,6137,3742,0.383,6.9
+district,Kinta,6120,3881,0.4,4.9
+district,Kerian,5532,3751,0.306,6
+district,Kuala Kangsar,5156,3366,0.387,10.6
+district,Larut Dan Matang,5364,3692,0.325,7.9
+district,Hilir Perak,4783,3153,0.369,12
+district,Hulu Perak,4554,2611,0.354,12.9
+district,Perak Tengah,5390,3492,0.373,10
+district,Kampar,4845,2571,0.359,7
+district,Muallim,5488,3459,0.391,11.6
+district,Bagan Datuk,5705,3407,0.364,6.4
+district,Selama,5364,3692,0.325,7.9
+district,Perlis,5476,3468,0.334,3.9
+district,Gombak,11536,5644,0.402,0.4
+district,Klang,9980,5530,0.378,1.7
+district,Kuala Langat,8375,4872,0.336,2.4
+district,Kuala Selangor,7866,4790,0.4,3.5
+district,Petaling,12145,6787,0.409,1.1
+district,Sabak Bernam,6042,3941,0.391,4.7
+district,Sepang,12254,5751,0.397,0.7
+district,Ulu Langat,10252,5223,0.338,0.6
+district,Ulu Selangor,7598,4165,0.339,1.5
+district,Besut,5819,3773,0.332,10.1
+district,Dungun,7564,4687,0.341,5.1
+district,Kemaman,7854,4652,0.346,4.6
+district,Kuala Terengganu,6691,4500,0.298,4.4
+district,Marang,5928,4008,0.31,8.2
+district,Hulu Terengganu,5363,3759,0.339,7.9
+district,Setiu,5600,3494,0.329,6.5
+district,Kuala Nerus,7647,4696,0.316,5.4
+district,Tawau,6212,2671,0.387,14.2
+district,Lahad Datu,5681,2829,0.369,19.3
+district,Semporna,5933,2578,0.474,31.5
+district,Sandakan,6020,3076,0.386,18.2
+district,Kinabatangan,5128,1895,0.378,32.1
+district,Beluran,3907,1805,0.385,45
+district,Kota Kinabalu,7665,3338,0.382,7.5
+district,Ranau,4756,2682,0.397,26.8
+district,Kota Belud,4382,2371,0.412,34
+district,Tuaran,5050,2932,0.383,16.7
+district,Penampang,6570,3198,0.321,4.4
+district,Papar,5733,2887,0.355,12.7
+district,Kudat,3966,2523,0.427,41.5
+district,Kota Marudu,3771,2538,0.43,46.1
+district,Pitas,3378,2064,0.458,53.6
+district,Beaufort,4861,2748,0.362,21
+district,Kuala Penyu,4275,2135,0.377,29.7
+district,Sipitang,5271,2279,0.347,10.5
+district,Tenom,4734,2606,0.347,17.2
+district,Nabawan,4443,2483,0.299,35.6
+district,Keningau,5445,2770,0.369,17.1
+district,Tambunan,4826,2842,0.378,16.7
+district,Kunak,5194,2461,0.392,26
+district,Tongod,3364,2000,0.422,56.6
+district,Putatan,6471,3113,0.357,10.9
+district,Telupid,4762,1903,0.447,40.7
+district,Kalabakan,6212,2671,0.387,14.2
+district,Kuching,7376,4227,0.374,5.6
+district,Bau,5183,2954,0.346,9.6
+district,Lundu,4428,2621,0.359,10.2
+district,Samarahan,6789,3980,0.324,4.7
+district,Serian,4878,2971,0.375,16.8
+district,Simunjan,3833,2290,0.377,21.1
+district,Sri Aman,4621,2907,0.356,7.4
+district,Lubok Antu,3905,2837,0.365,7.9
+district,Betong,3962,2851,0.374,22.4
+district,Saratok,4202,2868,0.372,13.8
+district,Sarikei,4609,3207,0.372,9.1
+district,Maradong,4091,2600,0.375,12.7
+district,Daro,3712,2403,0.32,18.5
+district,Julau,3506,2769,0.401,13
+district,Sibu,6140,3618,0.365,7.3
+district,Dalat,4790,3075,0.389,11.9
+district,Mukah,5447,2972,0.367,10.4
+district,Kanowit,3480,2497,0.387,21.9
+district,Bintulu,8324,4046,0.322,2.1
+district,Tatau,5345,3237,0.291,5
+district,Kapit,4344,3462,0.336,3.8
+district,Song,3443,2574,0.353,6
+district,Belaga,4229,2187,0.334,6.9
+district,Miri,7235,3864,0.353,4.7
+district,Marudi,4605,2433,0.378,16.9
+district,Limbang,5989,3394,0.382,11
+district,Lawas,5288,3324,0.384,14.4
+district,Matu,3901,2619,0.383,24.1
+district,Asajaya,4316,2690,0.383,20
+district,Pakan,3175,2402,0.309,21.7
+district,Selangau,3588,2211,0.385,14.3
+district,Tebedu,3439,2160,0.37,28.7
+district,Pusa,2758,2160,0.245,38.6
+district,Kabong,3294,2571,0.282,23
+district,Tanjung Manis,3849,2733,0.345,16.1
+district,Sebauh,4202,2241,0.257,3.4
+district,Bukit Mabong,4665,3222,0.348,7.5
+district,Subis,5528,2312,0.347,7.4
+district,Beluru,4119,2473,0.353,12
+district,Telang Usan,4415,2203,0.358,13.6
+district,W.P. Kuala Lumpur,13257,6913,0.35,0.2
+district,W.P. Labuan,8319,4097,0.333,3.1
+district,W.P. Putrajaya,12840,7980,0.361,0.4
+parliment,P.001 Padang Besar,4747,3154,0.31,5.7
+parliment,P.002 Kangar,5899,3694,0.35,4.2
+parliment,P.003 Arau,5411,3381,0.31,1.4
+parliment,P.004 Langkawi,6737,3334,0.28,0.9
+parliment,P.005 Jerlun,4919,2768,0.29,6.7
+parliment,P.006 Kubang Pasu,6673,4360,0.37,4.3
+parliment,P.007 Padang Terap,4781,3419,0.31,9.1
+parliment,P.008 Pokok Sena,5522,3564,0.33,6.8
+parliment,P.009 Alor Setar,5540,4146,0.32,4.9
+parliment,P.010 Kuala Kedah,5912,4183,0.38,7.3
+parliment,P.011 Pendang,4680,2798,0.31,8.1
+parliment,P.012 Jerai,4404,2635,0.38,14.9
+parliment,P.013 Sik,4960,2921,0.32,7.6
+parliment,P.014 Merbok,5967,3394,0.4,11.1
+parliment,P.015 Sungai Petani,5745,3255,0.36,9.2
+parliment,P.016 Baling,4313,2535,0.34,17.9
+parliment,P.017 Padang Serai,5293,3038,0.32,9.5
+parliment,P.018 Kulim-Bandar Baharu,5671,3209,0.35,9.8
+parliment,P.019 Tumpat,4838,3377,0.374,12.5
+parliment,P.020 Pengkalan Chepa,5353,3635,0.347,8.6
+parliment,P.021 Kota Bharu,5201,3569,0.346,7.4
+parliment,P.022 Pasir Mas,5617,3612,0.401,10
+parliment,P.023 Rantau Panjang,3864,2715,0.324,16.2
+parliment,P.024 Kubang Kerian,6219,4033,0.429,10.1
+parliment,P.025 Bachok,4728,2742,0.361,13.1
+parliment,P.026 Ketereh,5618,3710,0.396,11.2
+parliment,P.027 Tanah Merah,4487,2984,0.339,10.6
+parliment,P.028 Pasir Puteh,4688,3105,0.386,12.7
+parliment,P.029 Machang,4841,3056,0.352,7.1
+parliment,P.030 Jeli,3750,2307,0.342,18.9
+parliment,P.031 Kuala Krai,3979,2505,0.382,22.4
+parliment,P.032 Gua Musang,3918,2900,0.36,18.7
+parliment,P.033 Besut,6033,3840,0.339,9.5
+parliment,P.034 Setiu,5591,3621,0.339,9.3
+parliment,P.035 Kuala Nerus,7716,4715,0.298,3.8
+parliment,P.036 Kuala Terengganu,6689,4599,0.283,3.3
+parliment,P.037 Marang,6299,4225,0.318,7.5
+parliment,P.038 Hulu Terengganu,5577,3853,0.337,7.8
+parliment,P.039 Dungun,7553,4688,0.342,5.2
+parliment,P.040 Kemaman,7854,4652,0.346,4.6
+parliment,P.041 Kepala Batas,6739,3769,0.34,5
+parliment,P.042 Tasek Gelugor,6429,3557,0.34,4.1
+parliment,P.043 Bagan,7579,4119,0.38,3.4
+parliment,P.044 Permatang Pauh,6435,3615,0.37,6.1
+parliment,P.045 Bukit Mertajam,7901,4522,0.37,1.3
+parliment,P.046 Batu Kawan,7644,4680,0.35,0.6
+parliment,P.047 Nibong Tebal,6591,3808,0.32,2.5
+parliment,P.048 Bukit Bendera,9862,6129,0.41,0
+parliment,P.049 Tanjong,7807,4648,0.35,1.5
+parliment,P.050 Jelutong,7555,4753,0.28,1.3
+parliment,P.051 Bukit Gelugor,8013,4707,0.35,0.2
+parliment,P.052 Bayan Baru,9040,5562,0.36,0.8
+parliment,P.053 Balik Pulau,7975,5166,0.33,0.7
+parliment,P.054 Gerik,5138,3072,0.349,8.9
+parliment,P.055 Lenggong,3885,2177,0.34,17.5
+parliment,P.056 Larut,5173,3605,0.33,7.4
+parliment,P.057 Parit Buntar,5610,3923,0.308,8
+parliment,P.058 Bagan Serai,5507,3561,0.305,4.3
+parliment,P.059 Bukit Gantang,4607,3363,0.31,12.9
+parliment,P.060 Taiping,5916,3914,0.32,4.9
+parliment,P.061 Padang Rengas,6975,4223,0.46,5.9
+parliment,P.062 Sungai Siput,4399,2650,0.337,16.7
+parliment,P.063 Tambun,6170,3878,0.345,5.6
+parliment,P.064 Ipoh Timor,6177,3993,0.415,1.9
+parliment,P.065 Ipoh Barat,7860,5013,0.539,5.6
+parliment,P.066 Batu Gajah,4671,2941,0.318,7.3
+parliment,P.067 Kuala Kangsar,4819,3282,0.342,7.3
+parliment,P.068 Beruas,5592,3486,0.411,8.9
+parliment,P.069 Parit,6129,3972,0.364,6.2
+parliment,P.070 Kampar,4777,2612,0.362,7.6
+parliment,P.071 Gopeng,5851,3529,0.363,4.4
+parliment,P.072 Tapah,5468,2983,0.389,9
+parliment,P.073 Pasir Salak,3780,2606,0.307,18.9
+parliment,P.074 Lumut,6728,4019,0.343,4.7
+parliment,P.075 Bagan Datuk,5660,3341,0.371,6.3
+parliment,P.076 Teluk Intan,5059,3312,0.378,10.3
+parliment,P.077 Tanjong Malim,5686,3191,0.399,8.3
+parliment,P.078 Cameron Highlands,6329,4016,0.276,1.7
+parliment,P.079 Lipis,4467,3291,0.296,5.6
+parliment,P.080 Raub,4992,4102,0.307,4.4
+parliment,P.081 Jerantut,4436,2783,0.293,9.6
+parliment,P.082 Indera Mahkota,7693,4603,0.339,2
+parliment,P.083 Kuantan,6882,4537,0.322,1.1
+parliment,P.084 Paya Besar,6077,3738,0.307,1.2
+parliment,P.085 Pekan,5377,3341,0.315,6.5
+parliment,P.086 Maran,4390,3337,0.303,8.6
+parliment,P.087 Kuala Krau,4899,3575,0.301,4.9
+parliment,P.088 Temerloh,5318,3035,0.323,6.1
+parliment,P.089 Bentong,5288,3628,0.284,3.4
+parliment,P.090 Bera,4588,2821,0.289,2.8
+parliment,P.091 Rompin,4641,3337,0.295,6.7
+parliment,P.092 Sabak Bernam,4452,2982,0.33,7.7
+parliment,P.093 Sungai Besar,7069,4611,0.397,2.7
+parliment,P.094 Hulu Selangor,7598,4165,0.339,1.5
+parliment,P.095 Tanjong Karang,5812,3770,0.392,7.2
+parliment,P.096 Kuala Selangor,7239,4361,0.366,3.1
+parliment,P.097 Selayang,9557,4878,0.354,0.6
+parliment,P.098 Gombak,11565,5249,0.395,0.3
+parliment,P.099 Ampang,13591,6253,0.454,1.1
+parliment,P.100 Pandan,9495,5069,0.284,0.3
+parliment,P.101 Hulu Langat,10317,5284,0.312,0.9
+parliment,P.102 Bangi,10265,5275,0.339,0.4
+parliment,P.103 Puchong,10187,5715,0.403,2.1
+parliment,P.104 Subang,12747,6927,0.374,0.3
+parliment,P.105 Petaling Jaya,12464,6292,0.441,1.1
+parliment,P.106 Damansara,12414,7139,0.399,0.6
+parliment,P.107 Sungai Buloh,11489,6949,0.46,1.6
+parliment,P.108 Shah Alam,13567,7225,0.395,0.3
+parliment,P.109 Kapar,7953,5148,0.353,2.8
+parliment,P.110 Klang,10369,5518,0.375,1.4
+parliment,P.111 Kota Raja,11015,5877,0.383,1.7
+parliment,P.112 Kuala Langat,8717,4967,0.339,2.6
+parliment,P.113 Sepang,11724,5617,0.4,0.7
+parliment,P.114 Kepong,13087,6500,0.303,0
+parliment,P.115 Batu,11019,5817,0.305,0.3
+parliment,P.116 Wangsa Maju,11153,5768,0.289,0
+parliment,P.117 Segambut,20521,9845,0.396,0
+parliment,P.118 Setiawangsa,12281,6534,0.33,0.3
+parliment,P.119 Titiwangsa,11921,6823,0.335,0.5
+parliment,P.120 Bukit Bintang,13677,7401,0.363,0
+parliment,P.121 Lembah Pantai,13081,6186,0.376,0
+parliment,P.122 Seputeh,13489,7764,0.329,0.5
+parliment,P.123 Cheras,12031,5979,0.319,0.2
+parliment,P.124 Bandar Tun Razak,11266,6002,0.305,0
+parliment,P.125 Putrajaya,12840,7980,0.361,0.4
+parliment,P.126 Jelebu,5341,3738,0.363,6.2
+parliment,P.127 Jempol,4907,3398,0.35,5.8
+parliment,P.128 Seremban,7601,4938,0.393,4.5
+parliment,P.129 Kuala Pilah,5040,3909,0.366,8.3
+parliment,P.130 Rasah,8173,5170,0.398,1.8
+parliment,P.131 Rembau,6297,3916,0.351,4.2
+parliment,P.132 Port Dickson,6393,4083,0.378,4.3
+parliment,P.133 Tampin,5762,3694,0.386,4.8
+parliment,P.134 Masjid Tanah,6770,4334,0.375,5.2
+parliment,P.135 Alor Gajah,7188,4839,0.341,2.9
+parliment,P.136 Tangga Batu,7855,5368,0.374,5.9
+parliment,P.137 Hang Tuah Jaya,8837,5432,0.408,4.3
+parliment,P.138 Kota Melaka,7703,4792,0.381,2.9
+parliment,P.139 Jasin,7428,4830,0.386,2.7
+parliment,P.140 Segamat,6587,4151,0.319,2.6
+parliment,P.141 Sekijang,6390,4194,0.334,3.4
+parliment,P.142 Labis,6259,4033,0.274,2.4
+parliment,P.143 Pagoh,5774,3698,0.31,6.9
+parliment,P.144 Ledang,6757,4248,0.323,3.2
+parliment,P.145 Bakri,8007,5183,0.361,3.4
+parliment,P.146 Muar,7638,5359,0.338,4.2
+parliment,P.147 Parit Sulong,6961,4485,0.29,5.2
+parliment,P.148 Ayer Hitam,6453,4123,0.244,2.7
+parliment,P.149 Sri Gading,8227,4594,0.316,2.3
+parliment,P.150 Batu Pahat,7265,4571,0.286,2.5
+parliment,P.151 Simpang Renggam,5237,3307,0.354,9.9
+parliment,P.152 Kluang,6286,3824,0.327,3.6
+parliment,P.153 Sembrong,5279,3396,0.306,5.4
+parliment,P.154 Mersing,4937,3225,0.377,12.1
+parliment,P.155 Tenggara,7411,4159,0.359,5.1
+parliment,P.156 Kota Tinggi,5895,3444,0.355,9.7
+parliment,P.157 Pengerang,7126,4030,0.357,4.4
+parliment,P.158 Tebrau,8706,5116,0.356,3.7
+parliment,P.159 Pasir Gudang,8652,4511,0.382,4.9
+parliment,P.160 Johor Bahru,9993,5664,0.454,3.4
+parliment,P.161 Pulai,9559,5827,0.334,1.1
+parliment,P.162 Iskandar Puteri,10110,6275,0.392,2.4
+parliment,P.163 Kulai,8185,4802,0.331,4.2
+parliment,P.164 Pontian,6636,3836,0.335,4.9
+parliment,P.165 Tanjung Piai,6904,3751,0.369,6.6
+parliment,P.166 Labuan,8319,4097,0.333,3.1
+parliment,P.167 Kudat,3797,2505,0.439,47
+parliment,P.168 Kota Marudu,3739,2376,0.431,44.2
+parliment,P.169 Kota Belud,4377,2371,0.412,34.1
+parliment,P.170 Tuaran,5089,2932,0.383,16.3
+parliment,P.171 Sepanggar,7076,3123,0.386,9.8
+parliment,P.172 Kota Kinabalu,8846,4290,0.352,1.6
+parliment,P.173 Putatan,6819,3172,0.379,11.7
+parliment,P.174 Penampang,6643,3230,0.324,4.2
+parliment,P.175 Papar,5843,2899,0.352,12.1
+parliment,P.176 Kimanis,5359,2578,0.391,18.4
+parliment,P.177 Beaufort,4444,2547,0.368,28
+parliment,P.178 Sipitang,5148,2391,0.341,10.4
+parliment,P.179 Ranau,4669,2648,0.393,26.8
+parliment,P.180 Keningau,5550,2884,0.38,14.7
+parliment,P.181 Tenom,4734,2606,0.347,17.2
+parliment,P.182 Pensiangan,4359,2415,0.302,31.1
+parliment,P.183 Beluran,4169,1848,0.407,43.3
+parliment,P.184 Libaran,5616,2885,0.363,20.2
+parliment,P.185 Batu Sapi,6426,3571,0.387,13.7
+parliment,P.186 Sandakan,6963,3759,0.416,16.8
+parliment,P.187 Kinabatangan,4310,1916,0.408,41.7
+parliment,P.188 Lahad Datu,5644,2763,0.373,19.9
+parliment,P.189 Semporna,5933,2599,0.474,31.5
+parliment,P.190 Tawau,6202,2554,0.388,13.5
+parliment,P.191 Kalabakan,6222,2941,0.385,14.8
+parliment,P.192 Mas Gading,4857,2940,0.342,9.5
+parliment,P.193 Santubong,5784,3378,0.345,11.7
+parliment,P.194 Petra Jaya,7665,4260,0.363,6.1
+parliment,P.195 Bandar Kuching,7712,4457,0.418,4.3
+parliment,P.196 Stampin,7765,4465,0.364,3
+parliment,P.197 Kota Samarahan,6406,3723,0.343,7.7
+parliment,P.198 Puncak Borneo,4920,2960,0.348,11
+parliment,P.199 Serian,4558,2643,0.387,20.8
+parliment,P.200 Batang Sadong,4089,2324,0.377,18.4
+parliment,P.201 Batang Lupar,3316,2324,0.325,28.4
+parliment,P.202 Sri Aman,4496,2823,0.367,9.3
+parliment,P.203 Lubok Antu,3809,2785,0.361,8.8
+parliment,P.204 Betong,3996,2868,0.372,23
+parliment,P.205 Saratok,3829,2747,0.345,17.6
+parliment,P.206 Tanjong Manis,3803,2795,0.337,14.8
+parliment,P.207 Igan,3968,2506,0.37,21.8
+parliment,P.208 Sarikei,4725,3063,0.381,9.1
+parliment,P.209 Julau,3286,2524,0.343,18.1
+parliment,P.210 Kanowit,3480,2497,0.387,21.9
+parliment,P.211 Lanang,5658,3528,0.354,10.8
+parliment,P.212 Sibu,6592,3741,0.37,4
+parliment,P.213 Mukah,5210,2977,0.379,10.3
+parliment,P.214 Selangau,4303,2696,0.349,11.1
+parliment,P.215 Kapit,4028,3178,0.356,4.7
+parliment,P.216 Hulu Rajang,4320,2407,0.316,6.1
+parliment,P.217 Bintulu,7654,3653,0.34,2.4
+parliment,P.218 Sibuti,5834,2729,0.335,7.9
+parliment,P.219 Miri,7602,4140,0.355,4
+parliment,P.220 Baram,4394,2379,0.366,14.4
+parliment,P.221 Limbang,5989,3394,0.382,11
+parliment,P.222 Lawas,5222,3299,0.382,14.6
+dun,N.01 Titi Tinggi,4417,3333,0.305,7.6
+dun,N.02 Beseri,4066,3022,0.325,8.6
+dun,N.03 Chuping,4016,3123,0.292,2.7
+dun,N.04 Mata Ayer,4621,3533,0.27,0
+dun,N.05 Santan,4043,2995,0.338,5.3
+dun,N.06 Bintong,4547,3328,0.344,4.4
+dun,N.07 Sena,4920,4284,0.413,5.2
+dun,N.08 Indera Kayangan,5021,4209,0.334,0.9
+dun,N.09 Kuala Perlis,4062,3250,0.33,7.6
+dun,N.10 Kayang,6313,3650,0.244,0.6
+dun,N.11 Pauh,4854,3696,0.325,0.5
+dun,N.12 Tambun Tulang,4967,3493,0.287,1.2
+dun,N.13 Guar Sanji,4082,3216,0.276,1.4
+dun,N.14 Simpang Empat,3833,2769,0.331,3.6
+dun,N.15 Sanglang,4195,2886,0.318,2.8
+dun,N.01 Ayer Hangat,5743,2993,0.249,0.9
+dun,N.02 Kuah,6602,3632,0.289,0.9
+dun,N.03 Kota Siputeh,3961,2608,0.315,7
+dun,N.04 Ayer Hitam,4276,2967,0.269,6.4
+dun,N.05 Bukit Kayu Hitam,4511,3529,0.346,3.7
+dun,N.06 Jitra,5468,4799,0.376,4.6
+dun,N.07 Kuala Nerang,4017,3983,0.33,5.9
+dun,N.08 Pedu,3501,2845,0.266,12.9
+dun,N.09 Bukit Lada,4236,3131,0.306,7.7
+dun,N.10 Bukit Pinang,4884,3964,0.311,6.6
+dun,N.11 Derga,4420,3554,0.366,6
+dun,N.12 Suka Menanti,4494,4171,0.311,3.9
+dun,N.13 Kota Darul Aman,5773,4043,0.252,0
+dun,N.14 Alor Mengkudu,4899,4117,0.313,6.6
+dun,N.15 Anak Bukit,4419,5595,0.399,3.3
+dun,N.16 Kubang Rotan,4096,3102,0.361,12.2
+dun,N.17 Pengkalan Kundor,4805,4406,0.372,6.1
+dun,N.18 Tokai,4277,3166,0.309,5.3
+dun,N.19 Sungai Tiang,3235,2498,0.298,11.5
+dun,N.20 Sungai Limau,3565,2503,0.306,9.4
+dun,N.21 Guar Chempedak,3502,2710,0.4,14.6
+dun,N.22 Gurun,2978,2628,0.393,17.2
+dun,N.23 Belantek,3682,2761,0.329,12.8
+dun,N.24 Jeneri,4301,3075,0.308,2.9
+dun,N.25 Bukit Selambau,5149,3967,0.403,7.7
+dun,N.26 Tanjong Dawai,3501,2534,0.333,17.4
+dun,N.27 Pantai Merdeka,3795,2321,0.32,17
+dun,N.28 Bakar Arang,5092,3912,0.374,2.6
+dun,N.29 Sidam,4305,3085,0.356,10.8
+dun,N.30 Bayu,3527,2553,0.365,18.6
+dun,N.31 Kupang,3899,2599,0.306,15.7
+dun,N.32 Kuala Ketil,3444,2471,0.341,19.3
+dun,N.33 Merbau Pulas,4252,2716,0.316,12.1
+dun,N.34 Lunas,4431,3262,0.324,7.8
+dun,N.35 Kulim,4999,3763,0.356,11.4
+dun,N.36 Bandar Baharu,4022,2425,0.324,7.2
+dun,N.01 Pengkalan Kubor,2815,2624,0.286,20.8
+dun,N.02 Kelaboran,3108,2744,0.316,14.5
+dun,N.03 Pasir Pekan,3789,3895,0.372,9.5
+dun,N.04 Wakaf Bharu,4688,4252,0.414,7.4
+dun,N.05 Kijang,3595,2867,0.325,13.9
+dun,N.06 Chempaka,4343,3512,0.352,8.2
+dun,N.07 Panchor,4670,4108,0.341,5.5
+dun,N.08 Tanjong Mas,3950,3389,0.337,7.3
+dun,N.09 Kota Lama,4251,3486,0.403,10.8
+dun,N.10 Bunut Payong,4272,4026,0.314,5.2
+dun,N.11 Tendong,3783,3676,0.372,7.4
+dun,N.12 Pengkalan Pasir,4217,3818,0.417,8.9
+dun,N.13 Meranti,3561,3095,0.391,16.9
+dun,N.14 Chetok,3219,2924,0.338,12
+dun,N.15 Gual Periok,2920,2412,0.295,18.7
+dun,N.16 Apam Putra,3039,2913,0.338,15.7
+dun,N.17 Salor,4087,3776,0.373,4.5
+dun,N.18 Pasir Tumboh,4421,3712,0.451,12.5
+dun,N.19 Demit,4420,4423,0.424,10.3
+dun,N.20 Tawang,3938,2912,0.344,9.2
+dun,N.21 Pantai Irama,3417,2785,0.371,14.7
+dun,N.22 Jelawat,3712,2567,0.358,14.3
+dun,N.23 Melor,3612,3691,0.394,9.9
+dun,N.24 Kadok,4210,3675,0.413,13.6
+dun,N.25 Kok Lanas,4325,3739,0.383,11
+dun,N.26 Bukit Panau,3740,3477,0.339,6.6
+dun,N.27 Gual Ipoh,2430,1761,0.234,21.8
+dun,N.28 Kemahang,3630,2654,0.274,13.6
+dun,N.29 Selising,3530,2907,0.362,9.9
+dun,N.30 Limbongan,3781,3497,0.408,10.5
+dun,N.31 Semerak,2683,2265,0.379,17.6
+dun,N.32 Gaal,3344,2813,0.324,16.6
+dun,N.33 Pulai Chondong,3516,2741,0.324,2.5
+dun,N.34 Temangan,3077,2703,0.3,9.6
+dun,N.35 Kemuning,4039,3385,0.365,7.9
+dun,N.36 Bukit Bunga,2561,2341,0.365,20
+dun,N.37 Air Lanas,3080,2260,0.343,22.7
+dun,N.38 Kuala Balah,2760,2365,0.289,12.1
+dun,N.39 Mengkebang,3195,2843,0.366,22.3
+dun,N.40 Guchil,3491,2707,0.39,13.1
+dun,N.41 Manek Urai,2499,2126,0.323,33
+dun,N.42 Dabong,2180,1895,0.305,32.4
+dun,N.43 Nenggiri,2069,1892,0.251,39.4
+dun,N.30 Paloh,4156,3657,0.282,0
+dun,N.44 Paloh,2867,2665,0.349,16.2
+dun,N.45 Galas,3328,3338,0.361,14.6
+dun,N.01 Kuala Besut,4662,3358,0.351,10.1
+dun,N.02 Kota Putera,4609,3561,0.354,8.9
+dun,N.03 Jertih,4526,4551,0.34,13.1
+dun,N.04 Hulu Besut,4595,3861,0.282,3.9
+dun,N.05 Jabi,4313,3399,0.253,13.5
+dun,N.06 Permaisuri,4099,3483,0.329,4.9
+dun,N.07 Langkap,4403,3505,0.325,9
+dun,N.08 Batu Rakit,4943,3922,0.373,11.3
+dun,N.09 Tepuh,7336,5082,0.295,2.1
+dun,N.10 Buluh Gading,5004,4210,0.329,8.3
+dun,N.11 Seberang Takir,6917,4770,0.277,5.2
+dun,N.12 Bukit Tunggal,6537,4446,0.29,0
+dun,N.13 Wakaf Mempelam,6293,4999,0.26,2.3
+dun,N.14 Bandar,5198,3830,0.254,2.7
+dun,N.15 Ladang,5560,4452,0.299,3.6
+dun,N.16 Batu Buruk,5537,4652,0.29,3.9
+dun,N.17 Alur Limbat,6377,5094,0.357,8
+dun,N.18 Bukit Payung,5253,4268,0.309,6.7
+dun,N.19 Ru Rendang,5210,4019,0.289,8.5
+dun,N.20 Pengkalan Berangan,4627,3829,0.28,6.2
+dun,N.21 Telemung,4247,2872,0.262,9.1
+dun,N.22 Manir,5350,4296,0.31,7.7
+dun,N.23 Kuala Berang,4119,4150,0.408,8.9
+dun,N.24 Ajil,5395,4037,0.273,4.4
+dun,N.25 Bukit Besi,4357,3436,0.239,7.6
+dun,N.26 Rantau Abang,5692,4345,0.36,6.2
+dun,N.27 Sura,7852,5091,0.327,4.9
+dun,N.28 Paka,5774,4958,0.327,4
+dun,N.29 Kemasik,7018,5140,0.465,5.8
+dun,N.30 Kijal,6997,4586,0.264,3
+dun,N.31 Cukai,6592,4563,0.275,4.3
+dun,N.23 Air Putih,8183,6307,0.312,0
+dun,N.32 Air Putih,6255,4514,0.307,4.8
+dun,N.01 Penaga,5512,3641,0.261,7.5
+dun,N.02 Bertam,5704,3174,0.314,2
+dun,N.03 Pinang Tunggal,5625,3947,0.351,5.5
+dun,N.04 Permatang Berangan,6079,3413,0.299,2.3
+dun,N.05 Sungai Dua,5644,3824,0.298,2.1
+dun,N.06 Telok Ayer Tawar,5336,3306,0.41,8.5
+dun,N.07 Sungai Puyu,5901,3564,0.316,5.3
+dun,N.08 Bagan Jermal,4855,4020,0.434,2.2
+dun,N.09 Bagan Dalam,5578,4755,0.401,1.3
+dun,N.10 Seberang Jaya,5528,3783,0.345,3.6
+dun,N.11 Permatang Pasir,3653,3568,0.444,15.7
+dun,N.12 Penanti,5079,2928,0.351,6.6
+dun,N.13 Berapit,6997,5391,0.402,0
+dun,N.14 Machang Bubuk,5704,4420,0.349,1.4
+dun,N.15 Padang Lalang,6380,4092,0.357,1.9
+dun,N.16 Perai,5542,4899,0.37,0
+dun,N.17 Bukit Tengah,6239,4973,0.353,0
+dun,N.18 Bukit Tambun,6153,4245,0.327,1.2
+dun,N.19 Jawi,5486,3784,0.311,0.3
+dun,N.20 Sungai Bakap,5416,3851,0.307,2.9
+dun,N.21 Sungai Acheh,6702,3776,0.333,5.4
+dun,N.22 Tanjong Bunga,7228,5563,0.332,0
+dun,N.24 Kebun Bunga,4768,3372,0.379,0
+dun,N.25 Pulau Tikus,9583,8697,0.46,0
+dun,N.26 Padang Kota,6081,4871,0.235,0
+dun,N.27 Pengkalan Kota,5484,4313,0.328,1.3
+dun,N.28 Komtar,7374,5325,0.388,2.3
+dun,N.29 Datok Keramat,6864,4062,0.35,5.3
+dun,N.30 Sungai Pinang,7260,4824,0.236,0
+dun,N.31 Batu Lancang,6995,5288,0.285,0
+dun,N.32 Seri Delima,7777,5802,0.318,0
+dun,N.33 Air Itam,5533,4209,0.322,1.3
+dun,N.34 Paya Terubong,6027,4690,0.361,0
+dun,N.35 Batu Uban,7681,5482,0.328,0
+dun,N.36 Pantai Jerejak,6952,6019,0.383,2.4
+dun,N.37 Batu Maung,6111,5191,0.374,0.3
+dun,N.38 Bayan Lepas,6981,5426,0.329,0.5
+dun,N.39 Pulau Betong,5903,3870,0.279,0
+dun,N.40 Telok Bahang,5381,4114,0.351,2.1
+dun,N.01 Pengkalan Hulu,3733,2856,0.404,13.7
+dun,N.02 Temengor,4478,3263,0.294,4.8
+dun,N.03 Kenering,3733,2856,0.404,13.7
+dun,N.04 Kota Tampan,4478,3263,0.294,4.8
+dun,N.05 Selama,3961,3840,0.364,8.7
+dun,N.06 Kubu Gajah,3299,2579,0.28,11.2
+dun,N.07 Batu Kurau,5818,4165,0.294,4.4
+dun,N.08 Titi Serong,4696,4229,0.323,7.9
+dun,N.09 Kuala Kurau,4412,3497,0.273,8.2
+dun,N.10 Alor Pongsu,4954,2247,0.313,1.7
+dun,N.11 Gunong Semanggol,4543,3467,0.286,5.5
+dun,N.12 Selinsing,4390,3993,0.31,4.7
+dun,N.13 Kuala Sepetang,3812,3300,0.286,15.6
+dun,N.14 Changkat Jering,3678,3367,0.335,7.6
+dun,N.15 Trong,3691,3495,0.284,18.6
+dun,N.16 Kamunting,4530,4116,0.348,2.9
+dun,N.17 Pokok Assam,4500,3853,0.371,8.5
+dun,N.18 Aulong,4920,3806,0.25,3.7
+dun,N.19 Chenderoh,4091,2643,0.332,6.9
+dun,N.20 Lubok Merbau,5233,4667,0.474,5.2
+dun,N.21 Lintang,3289,2423,0.338,19.5
+dun,N.22 Jalong,3602,2783,0.336,14.9
+dun,N.23 Manjoi,5160,4055,0.368,4.6
+dun,N.24 Hulu Kinta,4842,3613,0.295,7.1
+dun,N.25 Canning,4169,4180,0.509,2.4
+dun,N.26 Tebing Tinggi,4783,3549,0.32,1.6
+dun,N.27 Pasir Pinji,4639,4269,0.364,1.3
+dun,N.28 Bercham,4858,4171,0.372,3.1
+dun,N.29 Kepayang,4466,7695,0.736,6.3
+dun,N.30 Buntong,3578,3736,0.37,9.2
+dun,N.31 Jelapang,4094,3061,0.339,6.1
+dun,N.32 Menglembu,3258,2567,0.324,8.2
+dun,N.33 Tronoh,4563,3120,0.275,7.7
+dun,N.34 Bukit Chandan,4717,3550,0.341,6.6
+dun,N.35 Manong,3571,2677,0.324,7.9
+dun,N.36 Pengkalan Baharu,2777,2460,0.388,19.2
+dun,N.37 Pantai Remis,3678,2763,0.276,10.1
+dun,N.38 Astaka,4977,4636,0.447,5.5
+dun,N.39 Belanja,3194,2630,0.331,9.7
+dun,N.40 Bota,5016,4264,0.353,5.3
+dun,N.41 Malim Nawar,3135,2565,0.417,5.7
+dun,N.42 Keranji,3941,2769,0.341,6.8
+dun,N.43 Tualang Sekah,3212,2423,0.345,10.2
+dun,N.44 Sungai Rapat,4062,3109,0.308,6.4
+dun,N.45 Simpang Pulai,4988,3969,0.377,3
+dun,N.46 Teja,4066,2715,0.332,4.8
+dun,N.47 Chenderiang,3681,2754,0.438,3.6
+dun,N.48 Ayer Kuning,4014,3115,0.329,13.2
+dun,N.49 Sungai Manik,3357,2680,0.298,19.2
+dun,N.50 Kampong Gajah,3046,2549,0.312,18.6
+dun,N.51 Pasir Panjang,5810,4106,0.331,4.7
+dun,N.52 Pangkor,3869,3094,0.409,4.6
+dun,N.53 Rungkup,3000,2215,0.322,8.3
+dun,N.54 Hutan Melintang,4674,3563,0.366,6
+dun,N.55 Pasir Bedamar,3159,3349,0.427,7.8
+dun,N.56 Changkat Jong,3958,3282,0.334,12.2
+dun,N.57 Sungkai,4599,3281,0.386,3.8
+dun,N.58 Slim,3975,2418,0.421,10.7
+dun,N.59 Behrang,3915,3501,0.39,10.1
+dun,N.01 Tanah Rata,5788,4065,0.274,0.4
+dun,N.02 Jelai,3755,3633,0.234,9.1
+dun,N.03 Padang Tengku,3628,3278,0.297,7.2
+dun,N.04 Cheka,3846,3653,0.279,1.5
+dun,N.05 Benta,3154,2982,0.296,8.5
+dun,N.06 Batu Talam,3731,3891,0.161,6.5
+dun,N.07 Tras,3948,4404,0.321,2.7
+dun,N.08 Dong,3661,3294,0.287,10.7
+dun,N.09 Tahan,3617,2782,0.295,18.3
+dun,N.10 Damak,3937,2813,0.298,7.7
+dun,N.11 Pulau Tawar,3518,2734,0.268,2.7
+dun,N.12 Beserah,4973,3878,0.325,1.8
+dun,N.13 Semambu,6769,5062,0.332,2.2
+dun,N.14 Teruntum,6125,4927,0.359,0
+dun,N.15 Tanjung Lumpur,6222,4482,0.263,2.3
+dun,N.16 Inderapura,4603,3841,0.329,0.6
+dun,N.17 Sungai Lembing,3589,2903,0.314,7
+dun,N.18 Lepar,5071,3611,0.288,0
+dun,N.19 Panching,5343,4163,0.298,0
+dun,N.20 Pulau Manis,5096,3456,0.295,6.5
+dun,N.21 Peramu Jaya,4362,3414,0.327,5.2
+dun,N.22 Bebar,3370,2691,0.211,12.6
+dun,N.23 Chini,4559,3538,0.314,4.5
+dun,N.24 Luit,3344,3395,0.325,10.4
+dun,N.25 Kuala Sentul,4052,3291,0.251,3.9
+dun,N.26 Chenor,3617,3308,0.315,10.9
+dun,N.27 Jenderak,3856,2591,0.219,2.2
+dun,N.28 Kerdau,3613,2571,0.322,25
+dun,N.29 Jengka,3834,4176,0.316,4
+dun,N.30 Mentakab,4120,3065,0.339,5.9
+dun,N.31 Lanchang,4278,2730,0.296,7.2
+dun,N.32 Kuala Semantan,4335,3184,0.322,5.6
+dun,N.33 Bilut,4335,3933,0.23,2.1
+dun,N.34 Ketari,4254,3663,0.32,4.9
+dun,N.35 Sabai,4092,3089,0.254,1.9
+dun,N.36 Pelangai,4210,3167,0.186,0
+dun,N.37 Guai,4045,3181,0.284,2.4
+dun,N.38 Triang,3579,2643,0.285,3.6
+dun,N.39 Kemayan,3567,2649,0.294,1.4
+dun,N.40 Bukit Ibam,3899,3042,0.255,7.3
+dun,N.41 Muadzam Shah,3536,3347,0.266,8.5
+dun,N.42 Tioman,3558,3511,0.335,4.8
+dun,N.01 Sungai Air Tawar,3105,3061,0.326,2.3
+dun,N.02 Sabak,3523,2917,0.331,11.5
+dun,N.03 Sungai Panjang,5098,4208,0.403,1.9
+dun,N.04 Sekinchan,5250,5755,0.383,4.1
+dun,N.05 Hulu Bernam,5379,3468,0.277,0
+dun,N.06 Kuala Kubu Baharu,5497,4104,0.354,0
+dun,N.07 Batang Kali,6752,4295,0.337,2.3
+dun,N.08 Sungai Burong,3921,3755,0.361,4.9
+dun,N.09 Permatang,4534,3786,0.411,9.6
+dun,N.10 Bukit Melawati,4876,3776,0.348,8.7
+dun,N.11 Ijok,4850,3252,0.458,0.9
+dun,N.12 Jeram,6572,5203,0.32,0
+dun,N.13 Kuang,7970,4860,0.317,0.8
+dun,N.14 Rawang,7019,4437,0.387,0.6
+dun,N.15 Taman Templer,8284,5513,0.346,0.6
+dun,N.16 Sungai Tua,8010,4572,0.466,1.7
+dun,N.17 Gombak Setia,7520,4841,0.32,0
+dun,N.18 Hulu Kelang,10873,6244,0.41,0
+dun,N.19 Bukit Antarabangsa,9888,6586,0.422,0.6
+dun,N.20 Lembah Jaya,8110,5691,0.488,1.5
+dun,N.21 Pandan Indah,7620,4472,0.279,0
+dun,N.22 Teratai,8838,5553,0.283,0.5
+dun,N.23 Dusun Tua,9248,4965,0.29,0.1
+dun,N.24 Semenyih,8969,5506,0.327,1.4
+dun,N.25 Kajang,8127,5434,0.33,0.4
+dun,N.26 Sungai Ramal,8681,5630,0.359,0.3
+dun,N.27 Balakong,8209,4879,0.315,0.4
+dun,N.28 Seri Kembangan,9111,5011,0.382,0
+dun,N.29 Seri Serdang,6902,5959,0.408,3.1
+dun,N.30 Kinrara,9870,6351,0.372,0.3
+dun,N.31 Subang Jaya,9980,7526,0.376,0.4
+dun,N.32 Seri Setia,8624,6846,0.378,1.5
+dun,N.33 Taman Medan,7401,5665,0.341,1
+dun,N.34 Bukit Gasing,11300,5715,0.579,0
+dun,N.35 Kampung Tunku,8685,7091,0.313,0
+dun,N.36 Bandar Utama,12533,8939,0.368,0.6
+dun,N.37 Bukit Lanjan,8174,6238,0.409,0.6
+dun,N.38 Paya Jaras,6554,5166,0.377,1.8
+dun,N.39 Kota Damansara,8047,9248,0.489,1.5
+dun,N.40 Kota Anggerik,12195,8745,0.373,0.4
+dun,N.41 Batu Tiga,8002,5308,0.406,0
+dun,N.42 Meru,7438,5655,0.326,2
+dun,N.43 Sementa,6750,5507,0.343,4.6
+dun,N.44 Selat Klang,5528,3986,0.383,1.3
+dun,N.45 Bandar Baru Klang,8100,5314,0.353,0.9
+dun,N.46 Pelabuhan Klang,8150,5559,0.326,2.2
+dun,N.47 Pandamaran,8643,5714,0.428,0.8
+dun,N.48 Sentosa,8039,5402,0.339,0.8
+dun,N.49 Sungai Kandis,9164,7121,0.341,0
+dun,N.50 Kota Kemuning,9164,5864,0.429,3.6
+dun,N.51 Sijangkang,7732,4689,0.315,3.2
+dun,N.52 Banting,6057,4710,0.336,3.9
+dun,N.53 Morib,7096,5861,0.366,0.6
+dun,N.54 Tanjong Sepat,6264,4574,0.308,0
+dun,N.55 Dengkil,8738,5994,0.415,0.7
+dun,N.56 Sungai Pelek,8722,4231,0.341,1
+dun,N.01 Chennah,3106,3849,0.394,4.4
+dun,N.02 Pertang,4031,2967,0.227,4.3
+dun,N.03 Sungai Lui,4289,3599,0.282,10.3
+dun,N.04 Klawang,4990,4015,0.376,6.3
+dun,N.05 Serting,3876,3675,0.289,6.7
+dun,N.06 Palong,3302,3309,0.261,6.1
+dun,N.07 Jeram Padang,3587,3123,0.375,11.2
+dun,N.08 Bahau,3699,3395,0.39,2.6
+dun,N.09 Lenggeng,6215,5369,0.389,2
+dun,N.10 Nilai,6041,4875,0.365,4.3
+dun,N.11 Lobak,4320,4230,0.461,8.5
+dun,N.12 Temiang,5533,5400,0.442,0
+dun,N.13 Sikamat,7118,5380,0.317,3.4
+dun,N.14 Ampangan,5337,4062,0.29,4.5
+dun,N.15 Juasseh,3817,3274,0.346,11.7
+dun,N.16 Seri Menanti,3180,3462,0.377,7.1
+dun,N.17 Senaling,2998,3876,0.355,12.9
+dun,N.18 Pilah,5000,4559,0.338,4.2
+dun,N.19 Johol,3146,3870,0.406,7.3
+dun,N.20 Labu,5871,4872,0.356,0.6
+dun,N.21 Bukit Kepayang,7293,6114,0.402,1.8
+dun,N.22 Rahang,4234,3844,0.418,0
+dun,N.23 Mambau,5836,5266,0.414,1.8
+dun,N.24 Seremban Jaya,5282,4621,0.367,3.7
+dun,N.25 Paroi,5620,4334,0.36,2.3
+dun,N.26 Chembong,4212,3751,0.379,5.8
+dun,N.27 Rantau,5135,3670,0.282,6.6
+dun,N.28 Kota,3718,2945,0.327,5.5
+dun,N.29 Chuah,5438,5019,0.323,2.2
+dun,N.30 Lukut,5020,4433,0.381,4.8
+dun,N.31 Bagan Pinang,4821,3874,0.324,1.9
+dun,N.32 Linggi,4572,3018,0.298,3.9
+dun,N.33 Sri Tanjung,5102,4106,0.463,7.1
+dun,N.34 Gemas,3747,3582,0.357,5.5
+dun,N.35 Gemencheh,3708,3693,0.338,5.8
+dun,N.36 Repah,4875,3736,0.401,4.1
+dun,N.01 Kuala Linggi,5199,4649,0.301,11
+dun,N.02 Tanjung Bidara,4625,4378,0.341,3
+dun,N.03 Ayer Limau,5929,3799,0.393,8.8
+dun,N.04 Lendu,6995,4992,0.409,5.9
+dun,N.05 Taboh Naning,5951,3726,0.257,2
+dun,N.06 Rembia,5989,5133,0.338,2.7
+dun,N.07 Gadek,4738,4665,0.378,4.9
+dun,N.08 Machap Jaya,7376,4751,0.266,1
+dun,N.09 Durian Tunggal,6846,5032,0.3,0.4
+dun,N.10 Asahan,4557,4030,0.361,6.5
+dun,N.11 Sungai Udang,6994,5174,0.327,4.1
+dun,N.12 Pantai Kundor,5169,5538,0.422,10.4
+dun,N.13 Paya Rumput,6679,5805,0.374,3.8
+dun,N.14 Kelebang,5700,4738,0.332,6.7
+dun,N.15 Pengkalan Batu,5674,6461,0.352,7.8
+dun,N.16 Ayer Keroh,6815,5289,0.385,1.1
+dun,N.17 Bukit Katil,7243,6531,0.451,6.2
+dun,N.18 Ayer Molek,5961,3643,0.395,5.9
+dun,N.19 Kesidang,6258,5073,0.352,2.1
+dun,N.20 Kota Laksamana,6045,4424,0.409,0
+dun,N.21 Duyong,5953,4726,0.368,7.8
+dun,N.22 Bandar Hilir,6153,4957,0.296,0
+dun,N.23 Telok Mas,6140,4630,0.46,6.8
+dun,N.24 Bemban,6258,4739,0.362,2
+dun,N.25 Rim,4885,6375,0.388,4.7
+dun,N.26 Serkam,5243,4349,0.323,0.5
+dun,N.27 Merlimau,5700,4746,0.428,4.1
+dun,N.28 Sungai Rambai,4112,3409,0.318,4.5
+dun,N.01 Buloh Kasap,5645,4395,0.304,3.4
+dun,N.02 Jementah,5449,3975,0.326,2.1
+dun,N.03 Pemanis,5931,4338,0.344,2.3
+dun,N.04 Kemelah,4829,4087,0.321,4.1
+dun,N.05 Tenang,5631,3479,0.246,4.4
+dun,N.06 Bekok,5983,4470,0.298,0
+dun,N.07 Bukit Kepong,4413,3851,0.324,8.9
+dun,N.08 Bukit Pasir,5336,3597,0.291,5
+dun,N.09 Gambir,5490,4275,0.32,7
+dun,N.10 Tangkak,6101,4338,0.31,2.1
+dun,N.11 Serom,5440,4114,0.31,1.9
+dun,N.12 Bentayan,6398,4997,0.377,2.3
+dun,N.13 Simpang Jeram,6682,5634,0.373,4
+dun,N.14 Bukit Naning,5199,3826,0.373,4.4
+dun,N.15 Maharani,6394,5866,0.376,8
+dun,N.16 Sungai Balang,6340,4756,0.28,0
+dun,N.17 Semerah,5809,4642,0.275,4.5
+dun,N.18 Sri Medan,5347,4321,0.31,6.2
+dun,N.19 Yong Peng,6213,4303,0.232,1.5
+dun,N.20 Semarang,6067,3841,0.255,4.2
+dun,N.21 Parit Yaani,6674,4683,0.338,2
+dun,N.22 Parit Raja,7482,4519,0.285,2.6
+dun,N.23 Penggaram,6691,4706,0.285,1.8
+dun,N.24 Senggarang,5439,4550,0.326,5.5
+dun,N.25 Rengit,5548,4060,0.303,2.1
+dun,N.26 Machap,4532,3729,0.355,10.4
+dun,N.27 Layang-Layang,3660,2710,0.33,9
+dun,N.28 Mengkibol,5340,3786,0.319,3.2
+dun,N.29 Mahkota,5207,3878,0.334,4
+dun,N.31 Kahang,4661,3248,0.313,7.6
+dun,N.32 Endau,3096,2579,0.343,14.4
+dun,N.33 Tenggaroh,4288,3447,0.376,11
+dun,N.34 Panti,5366,4246,0.357,5.7
+dun,N.35 Pasir Raja,6428,3954,0.357,4
+dun,N.36 Sedili,3529,3586,0.324,13.2
+dun,N.37 Johor Lama,5512,3342,0.291,6.9
+dun,N.38 Penawar,5878,4366,0.352,3.9
+dun,N.39 Tanjung Surat,5457,3529,0.357,5.2
+dun,N.40 Tiram,5646,3972,0.298,5.1
+dun,N.41 Puteri Wangsa,8235,6071,0.365,2.7
+dun,N.42 Johor Jaya,7142,4605,0.406,5.9
+dun,N.43 Permas,6528,4415,0.348,3.9
+dun,N.44 Larkin,6886,5782,0.456,3.7
+dun,N.45 Stulang,6353,5516,0.447,3
+dun,N.46 Perling,9373,6442,0.328,0.5
+dun,N.47 Kempas,6284,4709,0.293,2.5
+dun,N.48 Skudai,6699,5492,0.416,3.4
+dun,N.49 Kota Iskandar,8928,6726,0.368,1.6
+dun,N.50 Bukit Permai,7250,6464,0.37,5.7
+dun,N.51 Bukit Batu,5848,3962,0.363,5.9
+dun,N.52 Senai,7072,4266,0.278,2.4
+dun,N.53 Benut,4697,3289,0.319,5.5
+dun,N.54 Pulai Sebatang,6345,4037,0.332,4.7
+dun,N.55 Pekan Nanas,6490,3817,0.356,5.3
+dun,N.56 Kukup,4586,3670,0.37,8
+dun,N.01 Banggi,3966,2523,0.299,61.7
+dun,N.02 Bengkoka,1747,1398,0.299,75
+dun,N.03 Pitas,2120,2303,0.468,45.7
+dun,N.04 Tanjong Kapor,2971,2872,0.418,37.5
+dun,N.05 Matunggong,2124,2043,0.421,49.8
+dun,N.06 Bandau,2328,2336,0.391,49.9
+dun,N.07 Tandek,3286,2819,0.436,31.9
+dun,N.08 Pintasan,1973,1825,0.443,53.3
+dun,N.09 Tempasuk,3316,2815,0.381,19.4
+dun,N.10 Usukan,3779,2629,0.394,32.7
+dun,N.11 Kadamaian,2570,2077,0.407,34.5
+dun,N.12 Sulaman,4719,2968,0.407,15.8
+dun,N.13 Pantai Dalit,4136,2953,0.316,11.6
+dun,N.14 Tamparuli,3736,3045,0.405,19.8
+dun,N.15 Kiulu,2690,2658,0.361,19.5
+dun,N.16 Karambunai,5346,3121,0.369,10
+dun,N.17 Darau,5809,3002,0.374,10.5
+dun,N.18 Inanam,5408,3163,0.406,9.2
+dun,N.19 Likas,7600,4116,0.335,0.8
+dun,N.20 Api-Api,5925,4500,0.38,1.4
+dun,N.21 Luyang,7440,4361,0.347,2.1
+dun,N.22 Tanjong Aru,5571,3292,0.461,17.7
+dun,N.23 Petagas,4007,2576,0.372,15.5
+dun,N.24 Tanjung Keramat,6244,3750,0.32,6.5
+dun,N.25 Kapayan,5669,3348,0.325,3.2
+dun,N.26 Moyog,5336,2970,0.32,6.5
+dun,N.27 Limbahau,4686,3013,0.38,10.6
+dun,N.28 Kawang,4665,2841,0.339,12
+dun,N.29 Pantai Manis,4634,2903,0.351,13.8
+dun,N.30 Bongawan,3743,2556,0.381,16.3
+dun,N.31 Membakut,4280,2610,0.402,21.8
+dun,N.32 Klias,3334,2844,0.359,26.7
+dun,N.33 Kuala Penyu,2949,2135,0.377,29.7
+dun,N.34 Lumadan,3959,2668,0.324,10.1
+dun,N.35 Sindumin,3944,2279,0.347,10.5
+dun,N.36 Kundasang,2943,2232,0.43,29.8
+dun,N.37 Karanaan,4484,3141,0.369,14.6
+dun,N.38 Paginatan,3027,2377,0.365,33.6
+dun,N.39 Tambunan,3581,2842,0.378,16.7
+dun,N.40 Bingkor,4529,3138,0.386,15.7
+dun,N.41 Liawan,4184,2643,0.37,12.7
+dun,N.42 Melalap,4285,2867,0.361,9.2
+dun,N.43 Kemabong,3029,2264,0.284,28.6
+dun,N.44 Tulid,3636,2601,0.346,28.4
+dun,N.45 Sook,3732,2112,0.264,25
+dun,N.46 Nabawan,3692,2530,0.298,36.6
+dun,N.47 Telupid,3158,1931,0.416,39.8
+dun,N.48 Sugut,2538,1221,0.367,49.2
+dun,N.49 Labuk,3064,1912,0.407,41.7
+dun,N.50 Gum-Gum,3753,2508,0.382,25.7
+dun,N.51 Sungai Manila,4250,2656,0.384,26
+dun,N.52 Sungai Sibuga,5101,3181,0.343,16.1
+dun,N.53 Sekong,5805,3839,0.383,7.6
+dun,N.54 Karamunting,3831,2837,0.331,22.6
+dun,N.55 Elopura,5661,4684,0.411,14.2
+dun,N.56 Tanjong Papat,3019,2143,0.33,32.3
+dun,N.57 Kuamut,2197,2000,0.386,56.6
+dun,N.58 Lamag,3535,1789,0.368,41.2
+dun,N.59 Sukau,4127,1968,0.372,24.8
+dun,N.60 Tungku,4116,2742,0.368,18.5
+dun,N.61 Segama,4830,3164,0.394,17.3
+dun,N.62 Silam,3257,2142,0.339,25
+dun,N.63 Kunak,3830,2461,0.385,23.8
+dun,N.64 Sulabayan,2101,1612,0.276,69.8
+dun,N.65 Senallang,3679,2629,0.515,20.9
+dun,N.66 Bugaya,4106,2821,0.407,31.6
+dun,N.67 Balung,4640,2596,0.327,15
+dun,N.68 Apas,3209,2003,0.33,30
+dun,N.69 Sri Tanjong,5518,3092,0.4,4.3
+dun,N.70 Kukusan,7596,4220,0.397,10.5
+dun,N.71 Tanjung Batu,4225,2302,0.346,18.8
+dun,N.72 Merotai,4262,2750,0.359,9
+dun,N.73 Sebatik,3310,2080,0.294,26.6
+dun,N.01 Opar,3381,2561,0.307,8.8
+dun,N.02 Tasik Biru,4379,3210,0.351,10.1
+dun,N.03 Tanjong Datu,3739,2716,0.374,9.3
+dun,N.04 Pantai Damai,5490,3643,0.34,10.4
+dun,N.05 Demak Laut,4354,3390,0.317,14.4
+dun,N.06 Tupong,5852,4016,0.357,5
+dun,N.07 Samariang,7688,5319,0.363,7.5
+dun,N.08 Satok,5393,3276,0.348,9.2
+dun,N.09 Padungan,5002,3716,0.371,4.1
+dun,N.10 Pending,4215,3538,0.401,5.7
+dun,N.11 Batu Lintang,6316,5076,0.418,3.5
+dun,N.12 Kota Sentosa,7352,5186,0.354,1.4
+dun,N.13 Batu Kitang,5514,4039,0.365,4.3
+dun,N.14 Batu Kawah,5717,4354,0.361,2.9
+dun,N.15 Asajaya,3155,2904,0.367,21.4
+dun,N.16 Muara Tuang,4417,3213,0.354,11.6
+dun,N.17 Stakan,6074,4075,0.321,3.5
+dun,N.18 Serembu,3396,2604,0.363,10
+dun,N.19 Mambong,4374,3050,0.319,8.1
+dun,N.20 Tarat,3502,3101,0.364,16.5
+dun,N.21 Tebedu,2736,2267,0.414,28.6
+dun,N.22 Kedup,2874,2265,0.274,21.7
+dun,N.23 Bukit Semuja,4838,3239,0.355,11.8
+dun,N.24 Sadong Jaya,3401,2075,0.4,12.8
+dun,N.25 Simunjan,2988,2382,0.366,21.6
+dun,N.26 Gedong,2547,2296,0.351,16
+dun,N.27 Sebuyau,2836,2410,0.39,20.6
+dun,N.28 Lingga,2827,2433,0.28,22.4
+dun,N.29 Beting Maro,2342,2185,0.264,40.7
+dun,N.30 Balai Ringin,2543,2339,0.355,19.9
+dun,N.31 Bukit Begunan,2384,2141,0.313,11.3
+dun,N.32 Simanggang,4291,3120,0.343,5.3
+dun,N.33 Engkilili,2634,2037,0.274,6.2
+dun,N.34 Batang Ai,3021,3244,0.396,10.6
+dun,N.35 Saribas,2638,2620,0.307,33.2
+dun,N.36 Layar,3763,3114,0.353,11.7
+dun,N.37 Bukit Saban,2575,2932,0.408,20.4
+dun,N.38 Kalaka,3735,3067,0.345,7.5
+dun,N.39 Krian,2627,2514,0.352,17.7
+dun,N.40 Kabong,2669,2579,0.297,26.8
+dun,N.41 Kuala Rajang,2995,2910,0.352,12.9
+dun,N.42 Semop,2964,2601,0.32,17.6
+dun,N.43 Daro,3234,2398,0.344,19.5
+dun,N.44 Jemoreng,2709,2619,0.391,23.8
+dun,N.45 Repok,3743,3337,0.372,6.3
+dun,N.46 Meradong,2779,2539,0.382,13.5
+dun,N.47 Pakan,2678,2424,0.301,20.2
+dun,N.48 Meluan,2387,2723,0.412,13.8
+dun,N.49 Ngemah,1940,2089,0.31,32.9
+dun,N.50 Machan,3107,2550,0.38,15.1
+dun,N.51 Bukit Assek,4013,3459,0.382,13.5
+dun,N.52 Dudong,4879,3594,0.33,8.8
+dun,N.53 Bawang Assan,2589,1511,0.298,15.6
+dun,N.54 Pelawan,6380,4349,0.371,0.5
+dun,N.55 Nangka,5248,4081,0.336,3.9
+dun,N.56 Dalat,3848,2974,0.359,11.6
+dun,N.57 Tellian,4572,3268,0.388,7.9
+dun,N.58 Balingian,3122,2565,0.331,15.3
+dun,N.59 Tamin,2685,2210,0.357,17.4
+dun,N.60 Kakus,4026,3237,0.322,6.5
+dun,N.61 Pelagus,3192,3456,0.32,4.1
+dun,N.62 Katibas,2662,2574,0.353,6
+dun,N.63 Bukit Goram,3288,3714,0.362,3.8
+dun,N.64 Baleh,3594,2847,0.34,8.4
+dun,N.65 Belaga,4169,2465,0.326,5.6
+dun,N.66 Murum,3376,2189,0.288,5.5
+dun,N.67 Jepak,4679,2797,0.293,10.9
+dun,N.68 Tanjong Batu,9244,4773,0.278,0
+dun,N.69 Kemena,3704,2323,0.326,4.3
+dun,N.70 Samalaju,6387,3850,0.332,0.2
+dun,N.71 Bekenu,5086,2316,0.3,3.4
+dun,N.72 Lambir,4697,2907,0.344,9
+dun,N.73 Piasau,6212,4380,0.365,3.1
+dun,N.74 Pujut,6210,4401,0.366,2.7
+dun,N.75 Senadin,6148,3955,0.345,4.8
+dun,N.76 Marudi,3375,2596,0.361,12.1
+dun,N.77 Telang Usan,3194,2151,0.369,14.3
+dun,N.78 Mulu,2868,2057,0.374,22.7
+dun,N.79 Bukit Kota,4861,3568,0.374,10.4
+dun,N.80 Batu Danau,3670,2526,0.41,14.8
+dun,N.81 Ba`Kelalan,2829,2462,0.343,23.1
+dun,N.82 Bukit Sari,4257,3489,0.372,12.2
